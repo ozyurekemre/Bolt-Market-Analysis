@@ -1,1 +1,1 @@
-Bolt aims to enter Barcelona’s e-scooter market in 2022, leveraging its global expertise to capture a significant share of the local market.
+Bolt aims to enter Barcelona’s e-scooter market in 2022, leveraging its global expertise to capture a significant share of the local market. (Case Study)
