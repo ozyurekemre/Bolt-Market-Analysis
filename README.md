@@ -1,141 +1,109 @@
-E-Scooter Market Analysis & Strategic Expansion Plan
+Mobility Market Entry Case Study — Prepared for Bolt (Interview Case)
 
-Prepared for a Mobility Operator (Based on Bolt Case), Barcelona 2022
-📄 Author: Emre Özyürek
+📄 This analysis was developed for a Bolt interview case study.
+No internal or proprietary data from Bolt was used.
+All insights are based on public sources, assumptions, and self-built models.
+
+Author: Emre Özyürek
 
 🎯 Project Overview
 
-This project provides a full go-to-market (GTM) analysis for entering Barcelona’s e-scooter rental market.
-It includes:
+This project is an end-to-end market entry and financial feasibility case study prepared for a Bolt Mobility interview.
 
-Top-down & bottom-up market sizing
+The goal was to evaluate whether Bolt should expand its e-scooter fleet into Barcelona by analyzing:
 
-Tourism-adjusted demand modeling
+Market potential
 
-Revenue & cost model for Year 1
+Demand sizing (top-down & bottom-up)
 
-Unit economics & breakeven
+Tourist-driven elasticity
 
-Pricing strategy & subscription design
+Competitor landscape
 
-Competitive & regulatory landscape
+Regulatory constraints
 
-A complete market entry strategy for scaling to profitability
+Unit economics
 
-Source: Project slides, Exec Summary
+Pricing strategy
 
-1. 📊 Market Size Estimation
-1.1 Top-Down Model
+Financial viability
 
-Based on Barcelona mobility data and micro-mobility penetration assumptions.
+Risk mitigation
 
-Key factors:
+12-month roadmap for profitable launch
 
-Total urban trips
+All insights were created using publicly available data, industry benchmarks, and self-designed models.
 
-Micro-mobility adoption rate
+1. 📊 Market Sizing
+Top-Down Model
 
-Share of e-scooter rides
+Based on Barcelona mobility & micro-mobility penetration metrics:
 
-Result:
-🎯 2.45M annual potential rides (locals only)
-
+Potential annual rides (locals only):
+📌 2.45M rides
 Source: Slide “Top-Down Analysis”
 
-1.2 Bottom-Up Model
+Bottom-Up Model
 
-Built using:
+Using:
 
-Population within high-density zones
+Population in high-traffic districts
 
-Expected rides per active user
+User conversion estimates
 
-Conversion rate from pedestrians → scooter users
+Operating hours
 
-Operating hours / availability factor
+Daily ride cadence
 
-Result:
-🎯 2.02M annual rides
-
+Estimated annual rides:
+📌 2.02M rides
 Source: Slide “Bottom-Up Analysis”
 
-1.3 Tourist Impact
+Tourism Adjustment
 
-Barcelona tourism generates major incremental mobility demand.
+Barcelona has >12M annual tourists.
+Weighted tourist mobility multiplier introduces:
 
-Tourist-adjusted additional rides:
-➡️ ~1.8M rides / year
+📌 +1.8M rides
 
-FULL MARKET SIZE:
+FINAL TOTAL MARKET SIZE
+🔥 3.82M annual rides
 
-🔥 3.82M Annual Rides
+(locals + tourists)
 
-(local + tourist)
+2. 💶 Financial Viability (Year 1)
 
-Source: “Tourist Impact” slide
+Built using a custom revenue/cost model:
 
-2. 💶 Financial Viability — Year 1
+Result:
 
-From the financial model:
+📌 €6.85M EBITDA
+📌 57.8% EBITDA Margin
 
-Revenue Streams
+→ Highly viable market for Bolt’s scooter vertical
 
-Per-ride revenue
-
-Unlock fee
-
-Subscription plans
-
-Tourist packages
-
-Cost Structure
-
-Fleet purchase
-
-Charging & repositioning
-
-Maintenance & repairs
-
-Local operations labor
-
-Insurance & compliance
-
-Platform + tech overhead
-
-Source: “Financial Viability” slide
-
-Year 1 EBITDA
-💰 €6.85M EBITDA
-→ 57.8% Profit Margin
-
-This indicates a highly attractive market with strong unit economics.
+Source: Financial slides
 
 3. 📈 Unit Economics
 
-Based on the “Unit Economics” slide:
+Based on industry benchmarks + modeled cost stack:
 
-Avg. Revenue/Ride
+Breakeven point: ~2.1 rides/day/scooter
 
-Avg. Cost/Ride
+Battery swap cost: modeled per 100 rides
 
-Break-even utilization per scooter
+Maintenance: modeled by part failure frequency
 
-Gross margin per scooter
+Expected scooter lifespan: 2–3 years
 
-Lifespan assumptions (2–3 years)
+Fleet utilization assumption: 65–75%
 
-Battery swap cost
+Key insight:
+Barcelona meets and exceeds required breakeven utilization due to tourist seasonality.
 
-Maintenance cost per 100 rides
+4. 🧭 Competitive Landscape
 
-Insight:
-✔ Scooters break even at ~2.1 rides per day
-✔ Barcelona easily exceeds this due to tourism peaks
-
-Source: Slide “Unit Economics”
-
-4. 🔍 Competitive Landscape
-Major Competitors:
+Major players in Barcelona:
 
 Lime
 
@@ -143,128 +111,99 @@ Tier
 
 Dott
 
-Local smaller operators
+Local operators
 
-Each competitor analyzed via:
+Benchmarked by:
 
-Fleet size
+Price/min
 
-Coverage zones
+Unlock fee
 
-Pricing structure
+Zone coverage
 
 App UX
 
-Promotion strategy
+Promotions
 
-Source: “Key Competitors” slide
+Fleet size
 
-Regulatory Constraints
+Source: Competitor slide
 
-Barcelona has strict regulations, including:
+5. ⚖️ Regulations
 
-Fleet cap: 3,975 scooters citywide (AMB)
+Barcelona has strict micro-mobility rules:
 
-Parking: designated zones only; €100 fines
+Fleet cap: 3,975 scooters (municipality-wide)
 
-Max Speed: 25 km/h (bike lanes)
+Parking: only official docking zones
 
-Age: 16+
+Speed limit: 25 km/h
 
-Insurance: mandatory third-party liability
+Insurance: mandatory
 
-Source: “Regulatory Landscape” slide
+Fines: up to €100 for improper parking
 
-These constraints form the boundary conditions for the operating model.
+This heavily affects fleet planning & operating model.
 
-5. 🎯 Pricing Strategy
+6. 🎯 Recommended Pricing Strategy
+Phase 1: Entry Pricing
 
-Designed as a phased strategy:
+Standard per-minute rate
 
-Phase 1 — Market Entry
+Discounted unlock fee
 
-Standard per-minute pricing
+“Local commuter” acquisition campaigns
 
-Reduced unlock fee
+Phase 2: Subscription Plans
+Plan	Price	Allowance	Target
+Weekend Warrior	€15	120 min	Tourists
+Daily Commuter	€25	200 min	Office workers
+Urban Explorer	€40	400 min	Frequent riders
 
-Local-first promotions
+Source: Pricing slide
 
-Phase 2 — Growth
+7. 🛠 Risk Mitigation
 
-Introduce subscription plans:
+Key risks:
 
-Plan Name	Price	Allowance
-Weekend Warrior	€15/month	120 min (weekends)
-Daily Commuter	€25/month	200 min (Mon–Fri)
-Urban Explorer	€40/month	400 min (anytime)
+Regulatory tightening
 
-Source: “Subscription Plans” slide
+Fleet vandalism
 
-6. ⚠️ Risk Mitigation
+Seasonal demand swings
 
-From the “Risk Mitigation” slide:
+Over-saturation
 
-Regulatory changes
+Infrastructure constraints
 
-Fleet vandalism/theft
-
-Seasonal demand volatility
-
-Tech outages
-
-Over-saturation from competitors
-
-Mitigation includes:
+Mitigations include:
 
 Geofencing
 
-Centralized charging hubs
+Predictive fleet balancing
 
-Dynamic fleet distribution
+Weather-driven demand forecasting
 
-Maintenance automation
+Tiered battery-swap operations
 
-Source: Slide “Risk Mitigation”
+Source: Risk slide
 
-7. 🗂 Strategic Recommendations
-1. Launch Strategy
+8. 🚀 Strategic Recommendations
 
-Start with 2,000 scooters in high-traffic zones
+Launch with 2,000 scooters, scale to 3,500 in 6 months
 
-Scale to 3,500 within 6 months
+Deploy AI-based rebalancing algorithms
 
-2. Tech Integration
+Build partnerships with:
 
-AI-driven rebalancing for scooter allocation
+Hotels
 
-Geofenced “virtual docking” for compliance
+Tourism hubs
 
-3. Partnerships
+Universities
 
-Hotels & tourist card programs
+Position Bolt as the “affordable eco-friendly option”
 
-Barcelona mobility initiatives
+Use localized promotions to win initial market share
 
-Student mobility partnerships
-
-4. Local Talent
-
-Hire a GM with mobility experience + operations team
-
-5. Marketing
-
-Digital-first acquisition
-
-Local events sponsorship
-
-Tourist package bundles
-
-6. Sustainability Narrative
-
-Highlight CO2 savings (0.023 kg CO₂eq per ride)
-
-Goal:
-🍋 20% market share
-🕒 Profitability within 18 months
-
-Source: “Strategic Recommendations” slides
+Hit 20% market share in 18 months
