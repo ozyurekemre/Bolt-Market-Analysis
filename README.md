@@ -1,4 +1,4 @@
-E-Scooter Market Analysis & Strategic Expansion Plan (Confidential)
+E-Scooter Market Analysis & Strategic Expansion Plan
 
 Prepared for a Mobility Operator (Based on Bolt Case), Barcelona 2022
 📄 Author: Emre Özyürek
