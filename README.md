@@ -1,4 +1,4 @@
-Mobility Market Entry Case Study — Prepared for Bolt (Interview Case)
+ Mobility Market Entry Case Study — Prepared for Bolt (Interview Case)
 
 📄 This analysis was developed for a Bolt interview case study.
 No internal or proprietary data from Bolt was used.
